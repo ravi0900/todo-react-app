@@ -1,6 +1,6 @@
-# Book My Show - Locofy Build
+# TODO React App using Bun
 
-### This app is build using locofy plungin and designed with figma, App contains frontend code and has responsive layout
+### This app is build using Bun package manager which is much faster than npm
 ![Cover Image](./image/todo.png)
 
 ---
