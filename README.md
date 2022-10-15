@@ -6,7 +6,7 @@
 ---
 ## Requirements
 
-Bun package manage 
+Bun package manager 
 * [Bun.sh](https://bun.sh/)
 
 ## Install
