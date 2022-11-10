@@ -12,7 +12,7 @@ Bun package manager
 ## Install
 
     $ git clone https://github.com/ravi0900/todo-react-app.git
-    $ cd bookmyshow_locofy
+    $ cd todo-react-app
     $ bun install
 
 
